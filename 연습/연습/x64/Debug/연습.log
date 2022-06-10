@@ -1,0 +1,5 @@
+﻿연습문제6.obj : error LNK2005: main이(가) 연습문제4.obj에 이미 정의되어 있습니다.
+연습문제7.obj : error LNK2005: main이(가) 연습문제4.obj에 이미 정의되어 있습니다.
+연습문제2.obj : error LNK2005: main이(가) 연습문제4.obj에 이미 정의되어 있습니다.
+연습문제3.obj : error LNK2005: main이(가) 연습문제4.obj에 이미 정의되어 있습니다.
+C:\Users\KGA_08\Desktop\ㄱㄷㅎ\연습\x64\Debug\연습.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
